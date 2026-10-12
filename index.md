@@ -25,7 +25,7 @@ Modern hardware and software logistics solutions engineered for school transport
 
 **Galla Transport Technologies LLC**  
 Macon, Missouri  
-*Contact:* gallatransporttechnologies@gmail.com
+[contact us](contact.md)
 
 <footer>
   <a href="/sitemap.xml">Sitemap</a>
