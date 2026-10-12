@@ -4,7 +4,7 @@ title: Galla Transport Technologies
 ---
 
 <p align="center">
-  <img src="logo transparent.png" alt="Galla Transport Technologies" width="180">
+  <img src="firefly.png" alt="Galla Transport Technologies" width="180">
 </p>
 
 <h1 align="center"><strong>Galla Transport Technologies</strong></h1>
