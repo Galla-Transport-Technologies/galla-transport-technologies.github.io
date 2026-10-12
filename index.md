@@ -8,7 +8,7 @@ title: Galla Transport Technologies
 </p>
 
 <h1 align="center"><strong>Galla Transport Technologies</strong></h1>
-<p align="center"><em>Modern hardware and software logistics solutions engineered for school transportation.</em></p>
+<p align="center"><em>"Engineering advanced digital logistics solutions to make school transportation safer, smarter, and more transparent for districts and families."</em></p>
 
 ---
 
