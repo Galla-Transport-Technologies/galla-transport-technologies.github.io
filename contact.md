@@ -13,7 +13,7 @@ If you have any questions, would like to reach out to Galla Transport Technologi
     <label for="inquiry-type" style="display: block; margin-bottom: 5px; font-weight: bold;">Inquiry Type</label>
     <select id="inquiry-type" name="inquiry_type" style="width: 100%; padding: 8px; box-sizing: border-box;">
       <option value="General Question">General Question</option>
-      <option value="School District - Tiger Transport App">School District: Get Tiger Transport App</option>
+      <option value="School District - App">School District: Get Your Own App</option>
       <option value="Support">Technical Support</option>
     </select>
   </div>
