@@ -14,7 +14,7 @@ title: Galla Transport Technologies
 
 ## Our Solutions & Platforms
 
-* **[Tiger Transport App](tiger-transport.md):** Our specialized Android application built for real-time student manifest tracking and onboard NFC scanning to verify route loading and drop-offs.
+* **[Tiger Transport App](Tiger-Transport.md):** Our specialized Android application built for real-time student manifest tracking and onboard NFC scanning to verify route loading and drop-offs.
 * **Fleet Maintenance Systems:** Digital workshop inventory workflows, diagnostics tracking, and preventative fleet scheduling.
 
 ---
