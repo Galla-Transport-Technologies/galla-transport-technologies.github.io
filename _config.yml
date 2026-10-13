@@ -5,6 +5,6 @@ show_downloads: false
 github:
   is_project_page: false
 plugins:
-  - jekyll-sitemap
-url: "https://galla-transport-technologies.github.io"
+- jekyll-sitemap
+url: "https://gallatransporttechnologies.com"
 
