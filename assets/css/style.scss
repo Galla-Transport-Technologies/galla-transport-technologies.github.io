@@ -11,11 +11,9 @@ $body-link-color: #b30000;              // Red links
 .site-footer {
   display: none !important;
 }
-.skip-to-content, a[href="#content"] {
-  position: absolute;
-  left: -9999px;
-  top: auto;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
+a.skip-to-content,
+a[href="#content"],
+.skip-to-content {
+  display: none !important;
+  visibility: hidden !important;
 }
