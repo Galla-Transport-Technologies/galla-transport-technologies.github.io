@@ -8,3 +8,6 @@ $section-headings-color: #8B0000;       // Red section titles
 $body-link-color: #b30000;              // Red links
 
 @import "{{ site.theme }}";
+.site-footer {
+  display: none !important;
+}
