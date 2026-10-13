@@ -3,7 +3,6 @@ layout: default
 title: Tiger Transport App
 ---
 
-# Tiger Transport
 
 **Tiger Transport** is a specialized Android application developed by Galla Transport Technologies, custom-engineered for the **Macon R-1 School District** to streamline school bus operations, simplify driver workflows, and maximize student transit safety.
 
