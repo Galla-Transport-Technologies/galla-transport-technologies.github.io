@@ -4,8 +4,7 @@ title: Galla Transport Technologies LLC
 ---
 
 <div class="hero-section" style="text-align: center; padding: 20px 0;">
-  <img src="Firefly.png" alt="Galla Transport Technologies LLC" style="max-width: 180px; width: 100%; height: auto; border-radius: 50%; box-shadow: 0 4px 14px rgba(0,0,0,0.12);" />
-  <p class="tagline" style="font-size: 1.2rem; font-style: italic; max-width: 680px; margin: 20px auto; color: #444;">
+<img src="Firefly.png" alt="Galla Transport Technologies LLC" style="max-width: 175px; width: 100%; height: auto; border-radius: 50%; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />  <p class="tagline" style="font-size: 1.2rem; font-style: italic; max-width: 680px; margin: 20px auto; color: #444;">
     "Engineering advanced digital logistics solutions to make school transportation safer, smarter, and more transparent for districts and families."
   </p>
 </div>
