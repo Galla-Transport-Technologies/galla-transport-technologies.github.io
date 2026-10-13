@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Explicit Favicon Links -->
+    <link rel="icon" type="image/png" href="{{ '/Firefly.png' | relative_url }}">
+    <link rel="shortcut icon" type="image/png" href="{{ '/Firefly.png' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/Firefly.png' | relative_url }}">
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% seo %}
+  </head>
+  <body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+        <p style="text-align: center; color: #666; font-size: 0.9rem; margin-top: 40px;">
+          © 2026 Galla Transport Technologies LLC. All rights reserved.
+        </p>
+      </footer>
+    </main>
+  </body>
+</html>
