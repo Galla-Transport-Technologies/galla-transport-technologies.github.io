@@ -33,7 +33,7 @@ title: Tiger Transport App
 
 ---
 
-<p style="text-align: center; margin-top: 35px;">
-  <a href="./" style="font-weight: 600; text-decoration: none; color: #8B0000;">← Return to Home</a> &nbsp;|&nbsp; 
-  <a href="contact" style="font-weight: 600; text-decoration: none; color: #8B0000;">Contact Us →</a>
-</p>
+<div style="display: flex; justify-content: center; gap: 16px; margin: 40px 0 20px;">
+  <a href="./" style="display: inline-block; padding: 10px 22px; border: 2px solid #8B0000; color: #8B0000; text-decoration: none; border-radius: 6px; font-weight: 600;">← Return to Home</a>
+  <a href="contact" style="display: inline-block; padding: 10px 22px; background-color: #8B0000; color: #ffffff; text-decoration: none; border-radius: 6px; font-weight: 600;">Contact Us →</a>
+</div>
