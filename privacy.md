@@ -3,7 +3,6 @@ layout: default
 title: Privacy Policy
 ---
 
-# Privacy Policy
 
 **Effective Date:** October 2026  
 **Entity:** Galla Transport Technologies LLC
