@@ -18,11 +18,6 @@ title: Galla Transport Technologies LLC
     <h3 style="margin-top: 0;"><a href="Tiger-Transport" style="text-decoration: none; color: #8B0000;">Tiger Transport App</a></h3>
     <p>A specialized Android application engineered for real-time student manifest tracking, driver verification, and onboard NFC card scanning for accurate route loading and drop-offs.</p>
   </div>
-
-  <div class="solution-card" style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; background: #fafbfc;">
-    <h3 style="margin-top: 0; color: #8B0000;">Fleet Maintenance Systems</h3>
-    <p>Purpose-built shop workflows, parts inventory management, digital work orders, and preventative maintenance schedules tailored for school bus fleet operations.</p>
-  </div>
 </div>
 
 ---
