@@ -9,7 +9,7 @@ title: Tiger Transport App
 
 <div class="app-preview" style="display: flex; gap: 20px; align-items: center; justify-content: center; flex-wrap: wrap; margin: 30px 0;">
   <img src="app logo crop.png" alt="Tiger Transport App Icon" style="max-width: 220px; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.12);" />
-  <img src="app main .png" alt="Tiger Transport Main Screen" style="max-width: 240px; height: auto; border-radius: 12px; border: 2px solid #222; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
+  <img src="app main.png" alt="Tiger Transport Main Screen" style="max-width: 240px; height: auto; border-radius: 12px; border: 2px solid #222; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
 </div>
 
 ---
