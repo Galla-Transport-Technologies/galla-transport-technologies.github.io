@@ -38,5 +38,5 @@ Student and operational data security are central to every platform we build. Al
 <div class="cta-banner" style="text-align: center; padding: 30px 15px; margin: 30px 0; background: #f6f8fa; border-radius: 8px;">
   <h3 style="margin-top: 0;">Ready to Modernize Your Fleet Operations?</h3>
   <p style="margin-bottom: 20px;">Get in touch for demonstrations, custom district deployments, or support inquiries.</p>
-  <a href="contact" style="display: inline-block; background-color: #8B0000; color: #ffffff; padding: 12px 28px; border-radius: 6px; font-weight: 600; text-decoration: none;">Contact Us</a>
+ <a href="contact" style="display: inline-block; background-color: #8B0000; color: #ffffff; padding: 12px 28px; border-radius: 6px; font-weight: 600; text-decoration: none; margin-top: 15px;">Contact Us</a>
 </div>
