@@ -4,7 +4,8 @@ title: Galla Transport Technologies
 ---
 
 <p align="center">
-  <img src="firefly.png" alt="Galla Transport Technologies" width="180">
+  <img width="248" height="282" alt="Firefly" src="https://github.com/user-attachments/assets/bca1fc7f-f02b-4176-8e32-c8e8a4e30d02" />
+
 </p>
 
 <h1 align="center"><strong>Galla Transport Technologies</strong></h1>
